@@ -1,1 +1,2 @@
-# React + ReduxのTest Todo App
+# todo_list
+react + reduxによるTodoList
